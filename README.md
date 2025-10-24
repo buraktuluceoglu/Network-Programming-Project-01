@@ -30,6 +30,7 @@ Interactive CLI menu integrates multiple modules with logging and error handling
 ### 1. Machine Information
 	 •	Displays hostname, IP, and network interfaces.
 <img width="284" height="108" alt="Ekran Resmi 2025-10-24 21 20 03" src="https://github.com/user-attachments/assets/93b2555c-8ce5-42aa-8d39-9d0d6ceeafea" />
+
 ### 2. Echo Server/Client
 		•	TCP echo server and client.
 		•	Server echoes messages received from client.
